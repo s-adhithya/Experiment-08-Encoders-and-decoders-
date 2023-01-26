@@ -109,7 +109,7 @@ assign d7=(a&b&c);
 endmodule
 ```
 
-###ADDED RTL LOGIC :
+### ADDED RTL LOGIC :
 ENCODER:
 ![OUTPUT](/encodergate.png)
 DECODER:
